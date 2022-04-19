@@ -35,11 +35,16 @@ export default {
 .curso-main-container > .container
   overflow-x: clip !important
 .banner-principal .tarjeta
-  background-position: left !important
+  background-position: -32px 0px !important
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #12263F !important
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
   padding-bottom: 0px !important
 .titulo-segundo:after
   border-left-color: #F55D8B !important
+@media (max-width: 768px)
+  .banner-principal .tarjeta
+    background-position: -107px 0px !important
+.horizontal-scroll
+  align-items: flex-start !important
 </style>

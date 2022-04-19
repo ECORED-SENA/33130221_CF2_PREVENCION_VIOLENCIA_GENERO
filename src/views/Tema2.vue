@@ -9,7 +9,7 @@
 
     p(data-aos="fade-up") Estimado aprendiz, en el presente componente, usted podrá conocer los elementos que hacen parte de la ruta de restablecimiento de derechos, la cual es la garantía de la protección de la víctima en el marco de las situaciones de violencia de género que acontezcan. Es importante conocer que todo tipo de violencia debe ser atendido por parte de las autoridades competentes. En este contexto, se puede decir que el restablecimiento de derechos obedece a todas aquellas decisiones de tipo administrativo que decreta la autoridad competente para restablecer el ejercicio de los derechos de la persona que ha sido víctima de la violencia.
 
-    .bloque-texto-a.bloque_2_1.color-acento-contenido.p-4.p-md-5.mt-5
+    .bloque-texto-a.bloque_2_1.color-acento-contenido.p-4.p-md-5.mt-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-5
@@ -25,7 +25,7 @@
     p(data-aos="fade-up") De acuerdo con lo que establece la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal, en su Artículo 69. #[strong Requisitos de la denuncia, de la querella o de la petición], la denuncia, la querella o la petición se hará verbalmente, o por escrito, o por cualquier medio técnico que permita la identificación del autor, dejando constancia del día y hora de su presentación, y contendrá una relación detallada de los hechos que conozca el denunciante. Este deberá manifestar, si le consta, que los mismos hechos ya han sido puestos en conocimiento de otro funcionario. Quien la reciba advertirá al denunciante que la falsa denuncia implica responsabilidad penal.
 
     .cajon.color-primario.p-4.mt-5.col-md-10.m-auto(style="background-color:#E7DBEA;")
-      p(data-aos="fade-up") Denunciar, por tanto, significa que la mujer tendrá acceso a la justicia y judicialización del agresor o agresores, en el marco de algún tipo de violencia, con el fin de que todos los hechos sean investigados y los agresores debidamente judicializados. En este contexto, la entidad a cargo de recibir las denuncias relacionadas con los hechos es la Fiscalía General de la Nación, quien será la encargada de realizar la investigación, adelantar el esclarecimiento del caso e imputar cargos al agresor.
+      p.mb-0(data-aos="fade-up") Denunciar, por tanto, significa que la mujer tendrá acceso a la justicia y judicialización del agresor o agresores, en el marco de algún tipo de violencia, con el fin de que todos los hechos sean investigados y los agresores debidamente judicializados. En este contexto, la entidad a cargo de recibir las denuncias relacionadas con los hechos es la Fiscalía General de la Nación, quien será la encargada de realizar la investigación, adelantar el esclarecimiento del caso e imputar cargos al agresor.
 
     p.mt-5(data-aos="fade-up") Para garantizar el acceso a la justicia y a la judicialización del agresor o agresores, la mujer víctima de violencia puede acudir a la entidad competente (Fiscalía General de la Nación); y para recibir asesoría en el marco de la judicialización, la mujer víctima puede asesorarse en los consultorios jurídicos de las universidades y en la línea 155, la cual ha sido dispuesta por la Consejería Presidencial para la Equidad de la Mujer.
 
@@ -39,8 +39,8 @@
     .cont_full1__tema2.mt-4.pb-3.pt-5(style="position:relative")
       p(data-aos="fade-up" style="position:relative") En apoyo a la Fiscalía General de la Nación, existen otros actores que componen el sector justicia y soportan el proceso de restablecimiento de derechos a la víctima de violencia sexual o de género, que se presentan a continuación:
 
-      figure.m-auto.col-md-8.mt-5
-        img(src="@/assets/curso/temas/tema2/4.svg")
+      figure.m-auto.col-md-8.mt-5(style="position:relative;")
+        img(src="@/assets/curso/temas/tema2/4.svg" style="position:relative;")
 
     p.mt-5.text-center(data-aos="fade-up") Para profundizar en el aspecto de la denuncia de los agresores, se relaciona el siguiente video, donde se entregan detalles acerca de los canales de comunicación y líneas de atención:
 
@@ -67,7 +67,7 @@
           p #[strong Servicio SMS:]  a través del código corto de mensajería #[strong (898006)], se pueden realizar consultas de orientación, consulta de casos, consulta de directorio, sedes y despachos, solicitudes de copia de denuncias; es un servicio gratuito (sin la necesidad de tener un plan de minutos, ni datos, ni saldo precargado en la línea celular), permite hasta 6 mensajes al día.
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema2/5.png', alt='')
+            img(src='@/assets/curso/temas/tema2/5.svg', alt='')
       .row(titulo="Estaciones de policía")
         .col-md-8.mb-4.mb-md-0
           p La denuncia también puede realizarse en las estaciones de policía o en las Unidades de Policía Judicial, como:
@@ -173,7 +173,7 @@
 
     .tabla-b.color-acento-contenido.mt-4
       table
-        caption Nota. Tomada de Fiscalía General de la Nación (s. f.-a).
+        caption(style="font-weight:500;") Nota. Tomada de Fiscalía General de la Nación (s. f.-a).
         tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
           td.p-2.text-center(style="border-right:2px #AFAFAF solid;") #[a(href="mailto:atencionusuario.amazonas@fiscalia.gov.co") atencionusuario.amazonas@fiscalia.gov.co]
           td.p-2.text-center(style="border-right:2px #AFAFAF solid;") #[a(href="mailto:atencionusuario.cesar@fiscalia.gov.co") atencionusuario.cesar@fiscalia.gov.co]
@@ -224,7 +224,7 @@
           td.p-2.text-center
 
     .col-md-7.m-auto
-      p.mt-5.p-2(style="border-left:5px #F55D8B solid;" data-aos="fade-up") #[strong Tabla 2]
+      p.mt-5.p-2(style="border-left:5px #F55D8B solid;" data-aos="fade-up") #[strong Tabla 2] Líneas internacionales
       .tabla-b.color-acento-contenido.mb-5
         table
           thead
@@ -232,7 +232,7 @@
               th.h4.text-white(style="border:0;") País
               th.h4.text-white(style="border:0;") Número
               th.h4.text-white(style="border:0;") Cobertura
-          caption Nota. Tomada de Fiscalía General de la Nación (s. f.-b).  
+          caption(style="font-weight:500;") Nota. Tomada de Fiscalía General de la Nación (s. f.-b).  
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") España
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 900995727
@@ -460,8 +460,8 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
         .col-lg-8
-          .bloque-texto-a__texto.p-5
-            p(data-aos="zoom-in") Si se presenta el caso en que la víctima/sobreviviente no pueda regresar a su hogar, se le debe garantizar un lugar para ubicarse o para hospedarse.
+          .bloque-texto-a__texto.p-5.pb-5.pt-5.pl-3.pr-3
+            p.mt-5.mb-5(data-aos="zoom-in") Si se presenta el caso en que la víctima/sobreviviente no pueda regresar a su hogar, se le debe garantizar un lugar para ubicarse o para hospedarse.
 
     p.mt-5(data-aos="fade-up") Dentro de todo el proceso de audiencia, la etapa de pruebas es considerada fundamental dentro del restablecimiento de derechos. A continuación, se hará una explicación de los tipos de pruebas con su descripción, para comprender mejor esta etapa del proceso:
 
@@ -556,7 +556,7 @@ export default {
 .bloque-texto-a.bloque_2_2.color-acento-contenido
   background-color: #5C1171
 .bloque-texto-a.bloque_2_3.color-acento-contenido:before
-  background-color: #DF4580
+  background-color: #FF5F7D
   background-image: url(../assets/curso/temas/tema2/11.png)
   background-size: contain
   background-repeat: no-repeat
@@ -567,11 +567,11 @@ export default {
   content: ''
   position: absolute
   background-image: url(../assets/curso/temas/tema2/3.png)
-  width: 125%
+  width: 280%
   height: 100%
-  left: -150px
+  left: -100px
   background-position: bottom
-  background-repeat: no-repeat
+  background-repeat: repeat
 .acordion .tarjeta--azul
   background-color: #F3F2FE !important
 .acordion .tarjeta--azul.acordion__activo
@@ -586,8 +586,8 @@ export default {
   background-position: center
   background-size: 10px
 .tarjeta-flip__img
-  background-size: 45%
-  background-position: center
+  background-size: 35%
+  background-position: center 30%
   background-repeat: no-repeat
 .tarjeta-flip.color-primario.flip_tema2_1 .tarjeta-flip__img
   background-color: #3B5DA8

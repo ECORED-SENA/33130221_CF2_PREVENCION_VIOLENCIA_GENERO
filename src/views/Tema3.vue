@@ -7,7 +7,7 @@
         span 3
       h1 Ruta de atención en salud
 
-    .bloque-texto-a.bloque_3_1.color-acento-contenido.p-4.p-md-5
+    .bloque-texto-a.bloque_3_1.color-acento-contenido.p-4.p-md-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-5
@@ -22,8 +22,8 @@
     .row
       .col-md-6.mb-4
         p(data-aos="fade-up") Es necesario tener presente los derechos de obligatorio cumplimiento por parte de los operadores de justicia, administrativos, de policía y para los prestadores de servicios de salud.
-        p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (s. f.), estos son los derechos de obligatorio cumplimiento:
-        ol.lista-ol--cuadro.mt-4
+        p.mt-3(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (s. f.), estos son los derechos de obligatorio cumplimiento:
+        ol.lista-ol--cuadro.mt-3
           li(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
@@ -53,23 +53,23 @@
         img(src="@/assets/curso/temas/tema3/3.svg" data-aos="fade-right")
       .col-md-6.mb-4.order-1.order-sm-2
         ol.lista-ol--cuadro
-          li(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Ser tratada con reserva de identidad al recibir la asistencia médica, legal, o asistencia social, respecto de sus datos personales, los de sus descendientes o los de cualquier otra persona que esté bajo su guarda o custodia.
-          li(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Acceder a los mecanismos de protección y atención para ellas y sus hijos e hijas.
-          li(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Contar con verdad,  justicia, reparación y garantías de no repetición frente a los hechos constitutivos de violencia.
-          li(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Obtener la estabilización de su situación conforme con los términos previstos en la Ley.
-          li(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Decidir voluntariamente si puede ser confrontada con el agresor en cualquiera de los espacios de atención y en los de procedimientos administrativos, judiciales o de otro tipo.
@@ -90,12 +90,12 @@
 
     .bloque-texto-a.bloque_3_2.color-acento-contenido.p-4.p-md-5.mt-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-8
+        .col-lg-7
           .bloque-texto-a__texto.p-5
             p(data-aos="zoom-in") Durante esta fase, los sentimientos más comunes que se pueden presentar en la mujer víctima son: ansiedad, excitabilidad, agitabilidad, desespero, irritación y desesperanza. 
             p.mt-4(data-aos="zoom-in") Adicional a esto, pueden sentir que re-experimentan el evento. 
             p.mt-4(data-aos="zoom-in") La intervención psicológica inicial se denomina intervención en crisis. 
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-5.mb-4.mb-lg-0
 
     p.mt-5(data-aos="fade-up") Cuando la mujer ingresa a la ruta de atención y su estado emocional se encuentra alterado, es necesario que la trabajadora social o la persona que canalizó la atención inicial remita a la mujer al área psicológica, para que se desarrolle la «intervención en crisis». Este tipo de intervención sólo está indicada en la etapa inicial, ya que su objetivo principal es restablecer la capacidad de las mujeres para hacerle frente a la situación de violencia en la que se encuentran y puedan reordenar y reorganizar su mundo interno y externo. 
     p.mt-4(data-aos="fade-up") Los principios de la intervención en crisis son los siguientes:
@@ -134,23 +134,23 @@
     .row.mt-5
       .col-md-6.mb-4
         ol.lista-ol--cuadro
-          li(data-aos="fade-up")
+          li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Adecuado contacto psicológico: generar empatía y confianza entre la mujer víctima y el profesional que realiza la atención. 
-          li(data-aos="fade-up")
+          li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Indagación del problema: conocer el pasado inmediato, presente y futuro inmediato.
-          li(data-aos="fade-up")
+          li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Búsqueda de soluciones: Ayudar a generar alternativas de solución, tanto en el plano inmediato como para un plano mediato. Dentro de las metas a corto plazo, se debe ayudar a manejar el miedo. De igual manera, es indispensable dialogar sobre los sucesos, garantizar la integridad física y asegurar la alimentación y la de sus hijas e hijos (si hubiera). Como parte de los objetivos o metas en el mediano plazo, está incentivar la búsqueda de trabajo (si no lo tuviera), acceder a un proceso terapéutico y la toma de decisiones de carácter jurídico.
-          li(data-aos="fade-up")
+          li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Asistencia en la ejecución: se refiere a buscar la mejor alternativa dadas las situaciones presentadas.
-          li(data-aos="fade-up")
+          li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Seguimiento: El profesional debe construir un procedimiento que permita verificar el progreso de las acciones realizadas. Este seguimiento puede ser presencial o por medio de teleconsulta. 
@@ -163,7 +163,7 @@
         img(src="@/assets/curso/temas/tema3/9.png" data-aos="fade-left")
       .col-md-7.order-1.order-sm-2
         p(data-aos="fade-up") Es muy importante que el especialista que realiza el proceso de atención psicológica insista en la búsqueda de medidas de protección. Asimismo, debe estimular la construcción de la autonomía, trabajando especialmente en: 
-        .row.mt-4
+        .row.mt-3
           .col-md-5.mb-3
             ol.lista-ol--cuadro
               li(data-aos="fade-up")
@@ -325,7 +325,7 @@ export default {
 .bloque-texto-a.bloque_3_1.color-acento-contenido:before
   background-color: #5C1171
   background-image: url(../assets/curso/temas/tema3/1.svg)
-  background-size: contain
+  background-size: cover
   background-repeat: no-repeat
   background-position: right
 .bloque-texto-a.bloque_3_1.color-acento-contenido
@@ -351,8 +351,8 @@ export default {
 .tarjeta-flip.color-primario.flip_tema3_3 .tarjeta-flip__img
   background-color: #5C1171
 .tarjeta-flip__img
-  background-size: 45%
-  background-position: center
+  background-size: 55%
+  background-position: center 40px
   background-repeat: no-repeat
 .bloque-texto-a.bloque_3_5.color-acento-contenido:before
   background-color: #5C1171

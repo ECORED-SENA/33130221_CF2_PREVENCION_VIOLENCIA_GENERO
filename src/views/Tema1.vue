@@ -7,7 +7,7 @@
         span 1
       h1 Diferenciar la violencia intrafamiliar de la violencia de género
 
-    .bloque-texto-a.bloque1.color-acento-contenido.p-4.p-md-5.mb-5 
+    .bloque-texto-a.bloque1.color-acento-contenido.p-4.p-md-5.mb-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-5
@@ -115,40 +115,40 @@
 
     .row.p-5.mt-4(style="background: rgb(245,255,242);background: linear-gradient(90deg, rgba(245,255,242,1) 50%, rgba(255,241,229,1) 50%);")
       .col-md-3.mb-4
-        h4(data-aos="fade-up") Factores individuales
+        h4(data-aos="fade-up" style="font-weight:900;") Factores individuales
         div(style="height: 100%;display: flex;align-items: center;")
           ul.lista-ul.mt-5
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#FF7600;")
               | Sexo
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#FF7600;")
               | Edad
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#FF7600;")
               | Factores biológicos
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#FF7600;")
               | Factores fisiológicos
       .col-md-6.mb-4.justify-content-center.m-auto.text-center
         img(src="@/assets/curso/temas/tema1/17.svg" data-aos="zoom-in-up" style="display:inline;")
       .col-md-3.mb-4
-        h4(data-aos="fade-up") Factores socioeconómicos
+        h4(data-aos="fade-up" style="font-weight:900;") Factores socioeconómicos
         div(style="height: 100%;display: flex;align-items: center;")
           ul.lista-ul.mt-5
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#6DD54E;")
               | Condición laboral
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#6DD54E;")
               | Nivel de educación
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#6DD54E;")
               | Uso de sustancias psicoactivas
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#6DD54E;")
               | Uso de alcohol
-            li.h5.mb-3(data-aos="fade-up")
+            li.h5.mb-5(data-aos="fade-up")
               i.fas.fa-circle(style="color:#6DD54E;")
               | Haber sufrido o presenciado maltrato en la niñez
 
@@ -159,7 +159,7 @@
         .col-lg-4.mb-4.mb-lg-0
           img(src="@/assets/curso/temas/tema1/18.svg" data-aos="zoom-in")
         .col-lg-8
-          .bloque-texto-a__texto.p-5
+          .bloque-texto-a__texto.p-5.pb-4.pt-4
             p(data-aos="zoom-in") De acuerdo con las características descritas en los tipos de abuso, es importante decir que la violencia intrafamiliar se considera como el abuso de poder sobre los miembros más débiles de la familia. 
             p.mt-4(data-aos="fade-up") Por lo regular, la violencia intrafamiliar afecta a los niños, niñas, ancianos, ancianas, personas en condición de discapacidad y la mujer, aunque es importante aclarar que los hombres también son violentados dentro del contexto familiar. 
 

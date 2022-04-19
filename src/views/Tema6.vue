@@ -23,15 +23,15 @@
 
     .bloque-texto-a.bloque_6_5.color-acento-contenido.p-4.p-md-5.mt-5
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
-        .col-lg-8
+        .col-lg-5.mb-4.mb-lg-0
+        .col-lg-7
           .bloque-texto-a__texto.p-5
             p(data-aos="zoom-in") La intervención psicoeducativa integra de manera práctica lo psicológico y lo pedagógico. Por un lado, la dimensión psicológica está relacionada con la comprensión de la problemática desde el proceso individual y la forma cómo éste afecta los procesos emocionales, las acciones individuales y los recursos psicológicos. Y desde lo pedagógico, se busca promover acciones que permitan aprender, incorporando nuevas formas de ver la realidad que permitan asumir pensamientos, emociones y conductas distintas.
 
     p.mt-5(data-aos="fade-up") En el caso particular de la violencia de género, los procesos psicoeducativos se convierten en una forma de visibilización de las violencias, ya que, al ser un problema tan arraigado en la cultura, muchas manifestaciones pasan desapercibidas. Parte del proceso es desenmascarar, hacer conciencia de las creencias individuales que sostienen la violencia de género y ayudar a construir nuevas formas de pensar en relación con la forma como los hombres y las mujeres viven en esta sociedad.
 
     .cajon.color-primario.p-4.mt-5.col-md-10.m-auto(style="background-color:#E7DBEA;")
-      p(data-aos="fade-up") Para desarrollar un proceso psicoeducativo, se debe partir de un diagnóstico o conocer la situación inicial de la persona o comunidad respecto al tema de la violencia de género; esto permite recoger imaginarios, construcciones individuales y reconocer el momento en el que la persona o personas se encuentran frente al entendimiento y vivencia de las violencias de género.
+      p.mb-0(data-aos="fade-up") Para desarrollar un proceso psicoeducativo, se debe partir de un diagnóstico o conocer la situación inicial de la persona o comunidad respecto al tema de la violencia de género; esto permite recoger imaginarios, construcciones individuales y reconocer el momento en el que la persona o personas se encuentran frente al entendimiento y vivencia de las violencias de género.
 
     p.mt-5(data-aos="fade-up") A continuación, se establece el plan de acción, el cual lleva a delimitar los temas, la forma de abordarlos y el modelo a seguir, que puede ser individual o colectivo:
 
@@ -208,4 +208,6 @@ export default {
   background-position: 0px -388px
   top: 0px
   box-shadow: inset 0px 20px 10px white
+.img-infografica__card .tarjeta.color-acento-botones
+  border-radius: 12px !important
 </style>
