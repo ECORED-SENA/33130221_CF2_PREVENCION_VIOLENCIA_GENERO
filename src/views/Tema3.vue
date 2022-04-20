@@ -9,10 +9,10 @@
 
     .bloque-texto-a.bloque_3_1.color-acento-contenido.p-4.p-md-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-8
+        .col-lg-7
           .bloque-texto-a__texto.p-5
             p(data-aos="zoom-in") Estimado aprendiz, a continuación, usted podrá conocer la ruta de atención en salud, la cual busca garantizar la atención integral de la mujer víctima de violencia de género, teniendo en cuenta los derechos y todos los elementos correspondientes con un servicio de salud basado en los atributos de calidad, pertinencia, accesibilidad, continuidad, oportunidad y seguridad en todo el proceso de atención. Para desarrollar una adecuada ruta en salud, es necesario conocer los derechos a los cuales tiene acceso la víctima de violencia de género y cumplir con los mismos. 
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-5.mb-4.mb-lg-0
 
     Separador
 
@@ -24,23 +24,23 @@
         p(data-aos="fade-up") Es necesario tener presente los derechos de obligatorio cumplimiento por parte de los operadores de justicia, administrativos, de policía y para los prestadores de servicios de salud.
         p.mt-3(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (s. f.), estos son los derechos de obligatorio cumplimiento:
         ol.lista-ol--cuadro.mt-3
-          li(data-aos="fade-up")
+          li(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Tener atención integral a través de servicios con cobertura suficiente, accesible y de calidad.
-          li(data-aos="fade-up")
+          li(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Contar con orientación, asesoría jurídica y asistencia técnica legal, con carácter gratuito, inmediato y especializado, desde el momento en que el hecho constitutivo de violencia se ponga en conocimiento de la autoridad.
-          li(data-aos="fade-up")
+          li(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Recibir información clara, completa, veraz y oportuna en relación con sus derechos y con los mecanismos y procedimientos.
-          li(data-aos="fade-up")
+          li(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Entregar su consentimiento informado para los exámenes medicolegales en los casos de violencia sexual y escoger el sexo del facultativo para la práctica de estos dentro de las posibilidades ofrecidas por el servicio.
-          li(data-aos="fade-up")
+          li(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Tener información clara, completa, veraz y oportuna en relación con la salud sexual y reproductiva.
@@ -53,23 +53,23 @@
         img(src="@/assets/curso/temas/tema3/3.svg" data-aos="fade-right")
       .col-md-6.mb-4.order-1.order-sm-2
         ol.lista-ol--cuadro
-          li.mb-0(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Ser tratada con reserva de identidad al recibir la asistencia médica, legal, o asistencia social, respecto de sus datos personales, los de sus descendientes o los de cualquier otra persona que esté bajo su guarda o custodia.
-          li.mb-0(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Acceder a los mecanismos de protección y atención para ellas y sus hijos e hijas.
-          li.mb-0(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Contar con verdad,  justicia, reparación y garantías de no repetición frente a los hechos constitutivos de violencia.
-          li.mb-0(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Obtener la estabilización de su situación conforme con los términos previstos en la Ley.
-          li.mb-0(data-aos="fade-up")
+          li.mb-0(data-aos="fade-up" style="line-height:35px;")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
             | Decidir voluntariamente si puede ser confrontada con el agresor en cualquiera de los espacios de atención y en los de procedimientos administrativos, judiciales o de otro tipo.

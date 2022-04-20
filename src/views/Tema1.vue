@@ -161,7 +161,7 @@
         .col-lg-8
           .bloque-texto-a__texto.p-5.pb-4.pt-4
             p(data-aos="zoom-in") De acuerdo con las características descritas en los tipos de abuso, es importante decir que la violencia intrafamiliar se considera como el abuso de poder sobre los miembros más débiles de la familia. 
-            p.mt-4(data-aos="fade-up") Por lo regular, la violencia intrafamiliar afecta a los niños, niñas, ancianos, ancianas, personas en condición de discapacidad y la mujer, aunque es importante aclarar que los hombres también son violentados dentro del contexto familiar. 
+            p.mt-4.mb-0(data-aos="fade-up") Por lo regular, la violencia intrafamiliar afecta a los niños, niñas, ancianos, ancianas, personas en condición de discapacidad y la mujer, aunque es importante aclarar que los hombres también son violentados dentro del contexto familiar. 
 
     p.mt-5.mb-0(data-aos="fade-up") La #[strong violencia de género] está caracterizada por un clima violento mantenido en el tiempo, el cual se genera de forma continua por el agresor para obtener el control de la persona; hace referencia a todas aquellas agresiones que son realizadas contra cualquier persona o grupo de personas, teniendo en cuenta su sexo o género. 
     p(data-aos="fade-up") Como resultado de este tipo de violencia, se crea un impacto negativo en la identidad de la persona violentada; asimismo, en los aspectos social, psicológico, económico y físico. Por lo general, el ciclo de violencia de género se da de la siguiente manera:
