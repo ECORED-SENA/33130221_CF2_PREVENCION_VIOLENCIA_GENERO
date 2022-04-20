@@ -351,8 +351,8 @@ export default {
 .tarjeta-flip.color-primario.flip_tema3_3 .tarjeta-flip__img
   background-color: #5C1171
 .tarjeta-flip__img
-  background-size: 55%
-  background-position: center 40px
+  background-size: 55% !important
+  background-position: center 40px !important
   background-repeat: no-repeat
 .bloque-texto-a.bloque_3_5.color-acento-contenido:before
   background-color: #5C1171
