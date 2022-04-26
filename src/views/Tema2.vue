@@ -310,8 +310,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/12.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Seguridad física
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#3B5DA8;")
-              h4.text-center.text-white Seguridad física
-              p.text-white.text-center Garantizar la seguridad física de la víctima evitando que nuevos hechos pongan en peligro su vida.
+              h4.text-center.text-white.mt-5 Seguridad física
+              p.text-white.text-center.mb-5 Garantizar la seguridad física de la víctima evitando que nuevos hechos pongan en peligro su vida.
       .col-sm-12.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.flip_tema2_2(@mouseover="indicadorTarjetaFlip = false" style="background-color:#F55D8B;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -319,8 +319,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/13.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Autoestima
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#F55D8B;")
-              h4.text-center.text-white Autoestima
-              p.text-white.text-center Trabajar en fortalecer la autoestima de la víctima con el fin de lograr su seguridad psicológica.
+              h4.text-center.text-white.mt-5 Autoestima
+              p.text-white.text-center.mb-5 Trabajar en fortalecer la autoestima de la víctima con el fin de lograr su seguridad psicológica.
       .col-sm-12.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.flip_tema2_3(@mouseover="indicadorTarjetaFlip = false" style="background-color:#5C1171;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -328,7 +328,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/14.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Restablecimiento de derechos
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#5C1171;")
-              h4.text-center.text-white Restablecimiento de derechos
+              h4.text-center.text-white.mt-5 Restablecimiento de derechos
               p.text-white.text-center Garantizar el restablecimiento de derechos vulnerados por medio de las estrategias jurídicas que aseguren la adopción de medidas de protección.
 
     p.mt-5(data-aos="fade-up") Recuerde que es necesario tener presente que:
@@ -586,7 +586,7 @@ export default {
   background-position: center
   background-size: 10px
 .tarjeta-flip__img
-  background-size: 35%
+  background-size: 50%
   background-position: center 30%
   background-repeat: no-repeat
 .tarjeta-flip.color-primario.flip_tema2_1 .tarjeta-flip__img
