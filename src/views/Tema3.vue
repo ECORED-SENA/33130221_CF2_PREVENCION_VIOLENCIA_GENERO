@@ -117,8 +117,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/6.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Metas
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#F55D8B;")
-              h4.text-center.text-white Metas
-              p.text-white.text-center Contar con una meta clara en la intervención de crisis favorece la superación del momento crítico y empezar a visualizar posibles soluciones. 
+              h4.mt-5.text-center.text-white Metas
+              p.text-white.text-center.mb-5 Contar con una meta clara en la intervención de crisis favorece la superación del momento crítico y empezar a visualizar posibles soluciones. 
       .col-sm-12.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.flip_tema3_3(@mouseover="indicadorTarjetaFlip = false" style="background-color:#5C1171;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -126,8 +126,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/7.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Valoración
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#5C1171;")
-              h4.text-center.text-white Valoración
-              p.text-white.text-center El objetivo de la valoración es buscar que la mujer víctima reconozca las fortalezas y debilidades de cada uno de los componentes que hacen parte de la crisis.
+              h4.mt-5.text-center.text-white Valoración
+              p.text-white.text-center.mb-5 El objetivo de la valoración es buscar que la mujer víctima reconozca las fortalezas y debilidades de cada uno de los componentes que hacen parte de la crisis.
 
     p.mt-5(data-aos="fade-up") Como componentes principales dentro de la atención en crisis, se debe garantizar:
 

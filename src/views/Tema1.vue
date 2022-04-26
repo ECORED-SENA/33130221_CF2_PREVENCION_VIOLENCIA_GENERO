@@ -156,8 +156,8 @@
 
     .bloque-texto-a.bloque2.color-acento-contenido.p-4.p-md-5.mt-4
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
-          img(src="@/assets/curso/temas/tema1/18.svg" data-aos="zoom-in")
+        .col-lg-4.mb-4.mb-lg-0.text-center.m-auto
+          img(src="@/assets/curso/temas/tema1/18.svg" data-aos="zoom-in" style="max-width:230px;display:inline;")
         .col-lg-8
           .bloque-texto-a__texto.p-5.pb-4.pt-4
             p(data-aos="zoom-in") De acuerdo con las características descritas en los tipos de abuso, es importante decir que la violencia intrafamiliar se considera como el abuso de poder sobre los miembros más débiles de la familia. 
