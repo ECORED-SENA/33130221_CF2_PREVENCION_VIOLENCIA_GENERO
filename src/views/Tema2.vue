@@ -59,9 +59,9 @@
     AcordionA.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Fiscalía")
         .col-md-10.mb-4.mb-md-0
-          p En los Centros de Atención Integral a Víctimas de Delitos Sexuales de la Fiscalía, se puede realizar la denuncia de manera verbal o escrita, atienden de lunes a viernes, en los horarios de 8:00 am - 12:00 p.m.  del día y de la  1:00 pm  a  las 5:00 pm de la tarde. También se puede realizar en las Unidades de Reacción Inmediata (URI) de la Fiscalía, que prestan su servicio en todo el país las 24 horas del día.
-          p.mt-4.mb-0 #[strong Línea nacional:] 0180000919748 – Desde el Celular 122
-          p.mb-0 Línea local para #[strong Bogotá y Cundinamarca]  60 (1) 5702000 , opción 7
+          p En los Centros de Atención Integral a Víctimas de Delitos Sexuales de la Fiscalía, se puede realizar la denuncia de manera verbal o escrita, atienden de lunes a viernes, en los horarios de 8:00 a.m. a 12:00 p.m.  del día y de la  1:00 p. m. a las 5:00 p.m. de la tarde. También se puede realizar en las Unidades de Reacción Inmediata (URI) de la Fiscalía, que prestan su servicio en todo el país las 24 horas del día.
+          p.mt-4.mb-0 #[strong Línea nacional:] 0180000919748 y desde el celular 122
+          p.mb-0 Línea local para #[strong Bogotá y Cundinamarca]  60 (1) 5702000, opción 7
           p.mb-0 #[strong Página web:] #[a(href="https://www.fiscalia.gov.co/colombia/" target="_blank") https://www.fiscalia.gov.co/colombia/] , donde se dispone de canales virtuales, chat institucional, recepción de denuncias, PQRS e información general.
           p.mb-0 #[strong Correos electrónicos:] #[a(href="mailto:denunciaanonima@fiscalia.gov.co") denunciaanonima@fiscalia.gov.co]  y #[a(href="mailto:hechoscorrupcion@fiscalia.gov.co") hechoscorrupcion@fiscalia.gov.co]
           p #[strong Servicio SMS:]  a través del código corto de mensajería #[strong (898006)], se pueden realizar consultas de orientación, consulta de casos, consulta de directorio, sedes y despachos, solicitudes de copia de denuncias; es un servicio gratuito (sin la necesidad de tener un plan de minutos, ni datos, ni saldo precargado en la línea celular), permite hasta 6 mensajes al día.
@@ -75,11 +75,11 @@
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Dijin: </b> &nbsp;Dirección de Investigación Criminal e Interpol.
+              | <b>Díjin: </b> &nbsp;Dirección de Investigación Criminal e Interpol.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Sijin: </b> &nbsp;Seccional de Investigación Judicial
+              | <b>Síjin: </b> &nbsp;Seccional de Investigación Judicial.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
@@ -91,10 +91,10 @@
               | <b>Línea única</b> &nbsp;para atención de emergencias: 123.
             li
               i.fas.fa-circle(style="color:#F55D8B;")
-              | Orientación a mujeres: 155.
+              | <b>Orientación a mujeres: </b>&nbsp; 155.
             li
               i.fas.fa-circle(style="color:#F55D8B;")
-              | <b>Línea de atención al ciudadano</b> &nbsp;018000-910600
+              | <b>Línea de atención al ciudadano:</b> &nbsp;018000-910600.
             li
               i.fas.fa-circle(style="color:#F55D8B;")
               | <b>Correo electrónico:</b> &nbsp; <a href="mailto:lineadirecta@policia.gov.co" target="_blank">lineadirecta@policia.gov.co</a> 
@@ -113,15 +113,15 @@
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Teléfonos: </b> &nbsp;PBX en Bogotá:  <b>(601) 406 9944</b> o <b>(601) 406 9977</b>. 
+              | <b>Teléfonos (PBX en Bogotá):</b> &nbsp;  <b>(601) 406 9944</b> &nbsp;ó&nbsp; <b>(601) 406 9977</b>. 
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Línea gratuita: </b> &nbsp;desde cualquier lugar del país: <b>018000-914862</b>.
+              | <b>Línea gratuita: </b> &nbsp;desde cualquier lugar del país &nbsp;<b>018000-914862</b>.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              p.mb-0 Consulta del <b>directorio de Medicina Legal</b> en Colombia: <a href="https://siclico.medicinalegal.gov.co/directorioML/" target="_blank">https://siclico.medicinalegal.gov.co/directorioML/</a>, en esta página podrá realizar la búsqueda del directorio por departamento y municipio, donde se presentan la dirección, teléfonos, correo electrónico y horarios.
+              p.mb-0 <b>Consulta del directorio de Medicina Legal en Colombia:</b>&nbsp; <a href="https://siclico.medicinalegal.gov.co/directorioML/" target="_blank">https://siclico.medicinalegal.gov.co/directorioML/</a>, en esta página podrá realizar la búsqueda del directorio por departamento y municipio, donde se presentan la dirección, teléfonos, correo electrónico y horarios.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
@@ -148,7 +148,7 @@
 
           p.mb-0.mt-4 #[strong Línea gratuita nacional] para denuncias, disponible las 24 horas: #[strong 141]. 
           p.mb-0 #[strong Línea gratuita nacional ICBF], disponible las 24 horas: #[strong 018000918080].
-          p.mb-0 #[strong PBX:] disponible de lunes a viernes de 8:00 a.m. a 5:00 p.m.: +57 601 - 4377630.
+          p.mb-0 #[strong PBX:] disponible de lunes a viernes de 8:00 a. m. a 5:00 p. m.: +57601-4377630.
           p.mb-0 #[strong Correo electrónico:] #[a(href="mailto:atencionalciudadano@icbf.gov.co") atencionalciudadano@icbf.gov.co] 
           p.mb-0 #[strong Página web:] #[a(href="https://www.icbf.gov.co/bienestar/observatorio-bienestar-ninez/datos" target="_blank") https://www.icbf.gov.co/bienestar/observatorio-bienestar-ninez/datos]
          
@@ -159,7 +159,7 @@
         .col-md-8.mb-4.mb-md-0
           p.mb-0 La defensoría del pueblo está en el deber de garantizar la promoción, ejercicio y la divulgación de los derechos humanos en el contexto de la víctima y del agresor.  Su función principal se caracteriza por brindar asesoría y ayuda gratuita a las personas que necesiten apoyo para la defensa de sus derechos humanos.  
 
-          p.mb-0.mt-4 #[strong Línea gratuita nacional]  018000 914 814
+          p.mb-0.mt-4 #[strong Línea gratuita nacional:]  018000 914 814.
           p.mb-0 #[strong PBX:] (60) (1) 3147300.
           p.mb-0 #[strong Página web:] #[a(href="https://www.defensoria.gov.co/" target="_blank") https://www.defensoria.gov.co/]
          
@@ -236,7 +236,7 @@
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") España
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 900995727
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Chile
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 188 800 201 122
@@ -244,11 +244,11 @@
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") México
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 0-1800 283 2122
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Perú
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 0800 56 057
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") República Dominicana
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 01800 751 1122
@@ -260,15 +260,15 @@
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Japón
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 00531 490083
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Ecuador
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 01800 000 118
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Argentina
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 0800 666  0122
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Paraguay
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 009 800 57 20122
@@ -284,7 +284,7 @@
           tr(style="background-color:rgba(232, 232, 232, 0.4);border-bottom: 5px white solid;")
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") Puerto Rico /USA
             td.p-2.text-center(style="border-right:2px #AFAFAF solid;") 1888 575 3122
-            td.p-2.text-center Fijo/Móvil
+            td.p-2.text-center Fijo/móvil
 
     Separador
 
@@ -346,7 +346,7 @@
             p.mb-0(data-aos="zoom-in") -  Relato de los hechos denunciados. 
             p.mb-0(data-aos="zoom-in") -  Solicitud de las pruebas que estime necesarias.
 
-    p.mt-5(data-aos="fade-up") En el siguiente recurso, se presentan el procedimiento de medida de protección en los casos de violencias basadas en género, los momentos claves, etapas y descripciones:
+    p.mt-5(data-aos="fade-up") En el siguiente recurso, se presenta el procedimiento de medida de protección en los casos de violencias basadas en género, los momentos claves, etapas y descripciones:
 
     .tarjeta.tarjeta--gris.linea_tiempo_tema2.p-4.mt-4
       LineaTiempoC.color-acento-contenido(text-small)
@@ -369,9 +369,6 @@
             h4 Medidas de protección provisionales:
             p.mt-4 En el análisis de contexto, se deben tener en cuenta los siguientes elementos, para determinar si se requieren medidas de protección provisionales:
             ul.lista-ul.mt-4
-              li
-                i.fas.fa-circle(style="color:#F55D8B;")
-                | En el análisis de contexto, se deben tener en cuenta los siguientes elementos, para determinar si se requieren medidas de protección provisionales:
               li
                 i.fas.fa-circle(style="color:#F55D8B;")
                 | Evaluar la dinámica social, económica, política, comunitaria y familiar.
@@ -423,7 +420,7 @@
         .row.p-4(titulo="7")
           .col-md-8.mb-4.mb-md-0
             h4 Incumplimiento de las medidas:
-            p.mt-4 En caso de que exista incumplimiento en las medidas de protección a la víctima, se pueden presentar dos escenarios posibles: #[u Sanción de multa o Sanción de arresto.]
+            p.mt-4 En caso de que exista incumplimiento en las medidas de protección a la víctima, se pueden presentar dos escenarios posibles: #[u Sanción de multa o sanción de arresto.]
           .col-md-4(style="place-self:center;")
             figure
               img(src='@/assets/curso/temas/tema2/23.png', alt='')
@@ -470,6 +467,7 @@
         .col-md-6.mb-4.mb-md-0
           p Este tipo de prueba corresponde al Instituto Nacional de Medicina Legal en cada una de sus sedes territoriales, esta entidad debe realizar los dictámenes médicos, psicológicos y psiquiátricos forenses. 
           p En caso de que en el lugar de residencia de la víctima no exista una sede de esta entidad, se puede solicitar la práctica de esta prueba a los médicos oficiales y del Servicio Social Obligatorio.
+          p En el caso de psicología y psiquiatría forense, se podrá solicitar a peritos oficiales, quienes rendirán la prueba pericial conforme con los procedimientos establecidos por el Instituto Nacional de Medicina Legal.
 
         .col-md-6
           figure

@@ -86,7 +86,7 @@
       h2#t_3_2 3.2 Atención psicológica y/o física
 
     p(data-aos="fade-up") Es necesario abordar el tema de la atención que recibe la víctima de violencia, especialmente en lo que corresponde con la atención psicológica y la atención física. 
-    p.mt-4(data-aos="fade-up") En la #[strong atención psicológica], es importante comprender que la víctima de violencia de género puede presentar desorden de carácter psiquiátrico, denominado “desorden de estrés agudo»; esta situación se caracteriza por presentar sentimientos de intenso miedo, impotencia y horror, o también podría presentarse el caso opuesto, donde la víctima muestra pérdida total de emociones, sentimientos de desconexión, bajo reconocimiento de los ambientes, presencia de sentido de irrealidad o amnesia. 
+    p.mt-4(data-aos="fade-up") En la #[strong atención psicológica], es importante comprender que la víctima de violencia de género puede presentar desorden de carácter psiquiátrico, denominado «desorden de estrés agudo»; esta situación se caracteriza por presentar sentimientos de intenso miedo, impotencia y horror, o también podría presentarse el caso opuesto, donde la víctima muestra pérdida total de emociones, sentimientos de desconexión, bajo reconocimiento de los ambientes, presencia de sentido de irrealidad o amnesia. 
 
     .bloque-texto-a.bloque_3_2.color-acento-contenido.p-4.p-md-5.mt-5.col-md-10.m-auto
       .row.m-0.align-items-center.justify-content-between
@@ -153,7 +153,7 @@
           li.mb-4(data-aos="fade-up")
             .lista1_tema3.lista-ol--cuadro__vineta
               span
-            | Seguimiento: El profesional debe construir un procedimiento que permita verificar el progreso de las acciones realizadas. Este seguimiento puede ser presencial o por medio de teleconsulta. 
+            | Seguimiento: el profesional debe construir un procedimiento que permita verificar el progreso de las acciones realizadas. Este seguimiento puede ser presencial o por medio de teleconsulta. 
 
       .col-md-6
         img(src="@/assets/curso/temas/tema3/8.png" data-aos="fade-right")
@@ -258,7 +258,7 @@
 
     .mt-5
       span.h3(style="color:#4B5CC9;border-bottom: 3px #E3688B solid;padding-bottom:5px;") #[img(src="@/assets/curso/temas/tema1/31.svg" style="max-width:12px;display:inline;")] Victimización terciaria
-    p.mt-4(data-aos="fade-up") son todos aquellos efectos que se producen en el autor de los hechos o en terceros allegados tanto a la víctima como al victimario, a raíz de la violencia de género efectuada.
+    p.mt-4(data-aos="fade-up") Son todos aquellos efectos que se producen en el autor de los hechos o en terceros allegados tanto a la víctima como al victimario, a raíz de la violencia de género efectuada.
 
     .cajon.color-primario.p-4.mt-5.col-md-10.m-auto(style="background-color:#E7DBEA;")
       p(data-aos="fade-up") Como conclusión, se puede decir que la victimización secundaria y la terciaria son diferentes, pero tienen en común que ambas son consecuencia del delito cometido.
@@ -292,7 +292,7 @@
       .row.p-3
         p(data-aos="fade-up") Atención psicológica.
       .row.p-3
-        p(data-aos="fade-up") Prevención y tratamientos de infecciones de transmisión sexual - ITS.
+        p(data-aos="fade-up") Prevención y tratamientos de infecciones de transmisión sexual-ITS.
       .row.p-3
         p(data-aos="fade-up") Anticoncepción de emergencia y asesoría en aborto seguro, en caso de que la violencia de género se haya presentado en el escenario de abuso sexual.
       .row.p-3

@@ -42,15 +42,15 @@
       .tarjeta.color-acento-botones.p-3(x="29%" y="23%" numero="")
         p El proceso psicoeducativo debe definir los objetivos a seguir, los cuáles parten del diagnóstico y de las necesidades identificadas.
       .tarjeta.color-acento-botones.p-3(x="72%" y="23%" numero="")
-        p Como ventaja, se ha identificado que la psicoeducación permite a las personas mejorar su capacidad de conciencia frente a la situación trabajada, favoreciendo la confrontación y disonancia cognitiva, es decir, el ruido que genera enfrentarse con una realidad que no ha percibido.
-      .tarjeta.color-acento-botones.p-3(x="80%" y="50%" numero="")
-        p Lo más importante es que las personas logren entender sin juzgar, que comprendan por qué se piensa como se piensa; este es tal vez el reto más interesante de realizar procesos psicoeducativos.
-      .tarjeta.color-acento-botones.p-3(x="71%" y="78%" numero="")
         p Los procesos psicoeducativos deben promover el cuidado de sí mismo y del entorno cercano, fortalecer a las personas para que puedan encontrar e identificar comportamientos saludables y apoyar para que sean protagonistas de su propia transformación.
-      .tarjeta.color-acento-botones.p-3(x="29%" y="78%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="80%" y="50%" numero="")
         p Cabe resaltar que la psicoeducación puede ser de tipo informativo, donde se entrega información acerca del problema para sensibilizar, o puede ser de tipo conductual. 
-      .tarjeta.color-acento-botones.p-3(x="20%" y="50%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="71%" y="78%" numero="")
         p Los aspectos de tipo conductual deben formularse a largo plazo, ya que se enmarcan en la identificación de patrones y creencias y la búsqueda de estrategias para su reconstrucción.
+      .tarjeta.color-acento-botones.p-3(x="29%" y="78%" numero="")
+        p Lo más importante es que las personas logren entender sin juzgar, que comprendan por qué se piensa como se piensa; este es tal vez el reto más interesante de realizar procesos psicoeducativos.
+      .tarjeta.color-acento-botones.p-3(x="20%" y="50%" numero="")
+        p Como ventaja, se ha identificado que la psicoeducación permite a las personas mejorar su capacidad de conciencia frente a la situación trabajada, favoreciendo la confrontación y disonancia cognitiva, es decir, el ruido que genera enfrentarse con una realidad que no ha percibido.
 
 
     br

@@ -32,7 +32,7 @@
                   | Nivel socioeconómico. 
                 li
                   i.fas.fa-circle(style="color:#4B5CC9;")
-                  | Nivel de escolaridad - analfabetismo.  
+                  | Nivel de escolaridad-analfabetismo.  
                 li
                   i.fas.fa-circle(style="color:#4B5CC9;")
                   | Baja productividad y proveeduría.

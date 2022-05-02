@@ -36,7 +36,7 @@
             img(src='@/assets/curso/temas/tema5/4.png', alt='')
       .row(titulo="5.4 Temprana")
         .col-md-6.mb-4.mb-md-0
-          p El tipo de prevención temprana está orientado a identificar las causas que generan las diversas condiciones que ponen en riesgo a las poblaciones, por ejemplo, las violaciones de los derechos humanos y/o las infracciones al DIH (Derecho Internacional Humanitario), y a adoptar medidas para evitar su ocurrencia; estas medidas de prevención temprana buscan promover el respeto, la protección y la garantía de los Derechos Humanos de todas las personas, grupos y comunidades.
+          p El tipo de prevención temprana está orientado a identificar las causas que generan las diversas condiciones que ponen en riesgo a las poblaciones, por ejemplo, las violaciones de los derechos humanos o las infracciones al DIH (Derecho Internacional Humanitario), y a adoptar medidas para evitar su ocurrencia; estas medidas de prevención temprana buscan promover el respeto, la protección y la garantía de los Derechos Humanos de todas las personas, grupos y comunidades.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema5/5.png', alt='')
