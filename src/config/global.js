@@ -173,7 +173,7 @@ export default {
     {
       referencia:
         'Consejería Presidencial para la Equidad de la Mujer. (2020). Línea 155, una llamada puede marcar la diferencia. Gov.co.',
-      link: 'www.equidadmujer.gov.co/consejeria/Paginas/linea-155.aspx',
+      link: 'http://www.equidadmujer.gov.co/consejeria/Paginas/linea-155.aspx',
     },
     {
       referencia:

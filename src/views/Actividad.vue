@@ -5,17 +5,17 @@
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.tarjeta--azul.h-100.d-flex.align-items-center
+        .tarjeta.h-100.d-flex.align-items-center
           figure
-            img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Repasando conceptos claves para la selección de personal
-        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, mediante la organización de palabras que permitan estructurar los conceptos vistos en este componente. Conceptos que se deben conocer al momento de comprender los factores que intervienen en la atención al cliente con base en medios y herramientas tecnológicas. 
+          h2 Autoevaluación de conceptos de rutas para el restablecimiento de derechos y acciones de prevención.
+        p.mb-4 Identificar a nivel general la apropiación del conocimiento en el componente formativo revisado. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Relacionar términos 
+              p.fw-bold.mb-0 Verdadero/Falso 
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
