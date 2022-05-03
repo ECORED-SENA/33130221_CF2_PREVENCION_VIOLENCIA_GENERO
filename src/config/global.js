@@ -267,13 +267,6 @@ export default {
     },
     {
       texto:
-        'Consejería Presidencial para los Derechos Humanos y Asuntos Internacionales. (2017). Derechos humanos y violencias de género en el conflicto armado colombiano. ',
-      tipo: 'Documento',
-      link:
-        'http://www.derechoshumanos.gov.co/observatorio/publicaciones/Documents/2017/170213-violencia%20genero-web.pdf',
-    },
-    {
-      texto:
         'Noticias Caracol. (2018). Colombia y su lucha para frenar la violencia contra la mujer [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/9LB_Gmk0yk4',
