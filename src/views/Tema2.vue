@@ -59,7 +59,7 @@
     AcordionA.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Fiscalía")
         .col-md-10.mb-4.mb-md-0
-          p En los Centros de Atención Integral a Víctimas de Delitos Sexuales de la Fiscalía, se puede realizar la denuncia de manera verbal o escrita, atienden de lunes a viernes, en los horarios de 8:00 a.m. a 12:00 p.m.  del día y de la  1:00 p. m. a las 5:00 p.m. de la tarde. También se puede realizar en las Unidades de Reacción Inmediata (URI) de la Fiscalía, que prestan su servicio en todo el país las 24 horas del día.
+          p En los Centros de Atención Integral a Víctimas de Delitos Sexuales de la Fiscalía, se puede realizar la denuncia de manera verbal o escrita, atienden de lunes a viernes, en los horarios de 8:00 a. m. a 12:00 p. m.  del día y de la  1:00 p. m. a las 5:00 p. m. de la tarde. También se puede realizar en las Unidades de Reacción Inmediata (URI) de la Fiscalía, que prestan su servicio en todo el país las 24 horas del día.
           p.mt-4.mb-0 #[strong Línea nacional:] 0180000919748 y desde el celular 122
           p.mb-0 Línea local para #[strong Bogotá y Cundinamarca]  60 (1) 5702000, opción 7
           p.mb-0 #[strong Página web:] #[a(href="https://www.fiscalia.gov.co/colombia/" target="_blank") https://www.fiscalia.gov.co/colombia/] , donde se dispone de canales virtuales, chat institucional, recepción de denuncias, PQRS e información general.
@@ -75,11 +75,11 @@
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Díjin: </b> &nbsp;Dirección de Investigación Criminal e Interpol.
+              | <b>Dijín: </b> &nbsp;Dirección de Investigación Criminal e Interpol.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Síjin: </b> &nbsp;Seccional de Investigación Judicial.
+              | <b>Sijín: </b> &nbsp;Seccional de Investigación Judicial.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
@@ -91,7 +91,7 @@
               | <b>Línea única</b> &nbsp;para atención de emergencias: 123.
             li
               i.fas.fa-circle(style="color:#F55D8B;")
-              | <b>Orientación a mujeres: </b>&nbsp; 155.
+              | <b>Orientación a mujeres: </b>&nbsp;155.
             li
               i.fas.fa-circle(style="color:#F55D8B;")
               | <b>Línea de atención al ciudadano:</b> &nbsp;018000-910600.
@@ -117,7 +117,7 @@
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
-              | <b>Línea gratuita: </b> &nbsp;desde cualquier lugar del país &nbsp;<b>018000-914862</b>.
+              | <b>Línea gratuita desde cualquier lugar del país:</b>&nbsp;<b>018000-914862</b>.
             li
               .lista1_tema2.lista-ol--cuadro__vineta
                 span.span__image
@@ -310,8 +310,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/12.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Seguridad física
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#3B5DA8;")
-              h4.text-center.text-white.mt-5 Seguridad física
-              p.text-white.text-center.mb-5 Garantizar la seguridad física de la víctima evitando que nuevos hechos pongan en peligro su vida.
+              h4.text-center.text-white.mt-4 Seguridad física
+              p.text-white.text-center.mb-4 Garantizar la seguridad física de la víctima evitando que nuevos hechos pongan en peligro su vida.
       .col-sm-12.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.flip_tema2_2(@mouseover="indicadorTarjetaFlip = false" style="background-color:#F55D8B;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -319,8 +319,8 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/13.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Autoestima
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#F55D8B;")
-              h4.text-center.text-white.mt-5 Autoestima
-              p.text-white.text-center.mb-5 Trabajar en fortalecer la autoestima de la víctima con el fin de lograr su seguridad psicológica.
+              h4.text-center.text-white.mt-4 Autoestima
+              p.text-white.text-center.mb-4 Trabajar en fortalecer la autoestima de la víctima con el fin de lograr su seguridad psicológica.
       .col-sm-12.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.flip_tema2_3(@mouseover="indicadorTarjetaFlip = false" style="background-color:#5C1171;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -328,7 +328,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/14.svg')})`}")
               h4.text-center.text-white(style="position:absolute;width:100%;bottom:0;") Restablecimiento de derechos
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#5C1171;")
-              h4.text-center.text-white.mt-5 Restablecimiento de derechos
+              h4.text-center.text-white.mt-4 Restablecimiento de derechos
               p.text-white.text-center Garantizar el restablecimiento de derechos vulnerados por medio de las estrategias jurídicas que aseguren la adopción de medidas de protección.
 
     p.mt-5(data-aos="fade-up") Recuerde que es necesario tener presente que:
