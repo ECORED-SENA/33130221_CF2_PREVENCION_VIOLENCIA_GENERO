@@ -584,7 +584,7 @@ export default {
   background-position: center
   background-size: 10px
 .tarjeta-flip__img
-  background-size: 50%
+  background-size: 200px
   background-position: center 30%
   background-repeat: no-repeat
 .tarjeta-flip.color-primario.flip_tema2_1 .tarjeta-flip__img
