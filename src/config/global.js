@@ -257,13 +257,13 @@ export default {
       texto:
         'Secretaría de las Mujeres. (2014). Glosario de conceptos para la transversalización del enfoque de género. Alcaldía de Medellín. ',
       tipo: 'Glosario',
-      descarga: '/downloads/178e24ba-5bd6-4343-b159-3d873bf8d892.pdf',
+      descarga: 'downloads/178e24ba-5bd6-4343-b159-3d873bf8d892.pdf',
     },
     {
       texto:
         'Ley 1959 de 2019. Por medio de la cual se modifican y adicionan artículos de la ley 599 de 2000 y la ley 906 de 2004 en relación con el delito de violencia intrafamiliar. Junio 20 de 2019.',
       tipo: 'Normativa',
-      link: '/downloads/LEY_1959_DEL_20_DE_JUNIO_DE_2019.pdf',
+      link: 'downloads/LEY_1959_DEL_20_DE_JUNIO_DE_2019.pdf',
     },
     {
       texto:
@@ -275,13 +275,13 @@ export default {
       texto:
         'Sistema Integrado de Gestión de la Presidencia de la República [SIGEPRE]. (2020). Guía de Protocolo para la atención de la Línea 155. Presidencia de la República. ',
       tipo: 'Documento',
-      link: '/downloads/G-AE-06-Guia-Protocolo-atencion-Linea-155.pdf',
+      link: 'downloads/G-AE-06-Guia-Protocolo-atencion-Linea-155.pdf',
     },
     {
       texto:
         'Ministerio de Justicia y del Derecho [Minjusticia]. (s. f.). Guía Pedagógica para Comisarías de Familia sobre el procedimiento para el abordaje de la violencia intrafamiliar con enfoque de género. ',
       tipo: 'Guía',
-      link: '/downloads/Guia_Pedagogica_para_Comisarias_de_Familia.pdf',
+      link: 'downloads/Guia_Pedagogica_para_Comisarias_de_Familia.pdf',
     },
     {
       texto:
@@ -294,7 +294,7 @@ export default {
       texto:
         'Dirección de Promoción y Prevención. (2010). Lineamientos para operar programas preventivos. Ministerio de Salud y Protección Social. ',
       tipo: 'Documento',
-      link: '/downloads/lineamientos-programas-preventivos.pdf',
+      link: 'downloads/lineamientos-programas-preventivos.pdf',
     },
     {
       texto:
