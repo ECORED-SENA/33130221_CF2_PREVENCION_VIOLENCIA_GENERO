@@ -11,7 +11,7 @@
     p(data-aos="fade-up") Se le invita a revisar el siguiente video para que comprenda algunas indicaciones iniciales del proceso de aprendizaje y los elementos de abordaje acerca de las rutas para el restablecimiento de derechos y acciones de prevención:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/XYAVlOvXrnU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/96HKDZrUEkA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mt-5(data-aos="fade-up") Para la elaboración de este componente, se abordaron varios autores conocidos en rutas para el restablecimiento de derechos y acciones de prevención, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de acciones de prevención y manejo de las violencias de género.
 
