@@ -179,61 +179,61 @@
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#F0DACE;")
           p.text-center(data-aos="fade-up") Acosar o controlar a tu pareja #[br] usando el móvil
-          img.mt-4(src="@/assets/curso/temas/tema1/20.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/20.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#E0CEF0;")
           p.text-center(data-aos="fade-up") Interferir en relaciones de tu pareja en Internet con otras personas
-          img.mt-4(src="@/assets/curso/temas/tema1/21.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/21.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up")  Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#BCCEF2;")
           p.text-center(data-aos="fade-up") Espiar el móvil de #[br] tu pareja
-          img.mt-4(src="@/assets/curso/temas/tema1/22.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/22.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#C6F4CC;")
           p.text-center(data-aos="fade-up") Censurar fotos que tu pareja publica y comparte en redes sociales
-          img.mt-4(src="@/assets/curso/temas/tema1/23.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/23.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#F8D7B0;")
           p.text-center(data-aos="fade-up") Controlar lo que hace tu pareja en las redes sociales
-          img.mt-4(src="@/assets/curso/temas/tema1/24.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/24.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#BCCEF2;")
           p.text-center(data-aos="fade-up") Exigir a tu pareja que demuestre dónde está con su geolocalización 
-          img.mt-4(src="@/assets/curso/temas/tema1/25.png" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/25.svg" data-aos="zoom-in-up" style="max-height:300px;height:200px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#C6E6F4;")
           p.text-center(data-aos="fade-up") Obligar a tu pareja a que te envíe imágenes íntimas
-          img.mt-4(src="@/assets/curso/temas/tema1/26.png" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/26.svg" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#C7D1EA;")
           p.text-center(data-aos="fade-up") Comprometer a tu pareja para que te facilite sus claves personales
-          img.mt-4(src="@/assets/curso/temas/tema1/27.png" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/27.svg" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#FFF1DD;")
           p.text-center(data-aos="fade-up") Obligar a tu pareja a que muestre un chat con otra persona
-          img.mt-4(src="@/assets/curso/temas/tema1/28.png" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/28.svg" data-aos="zoom-in-up" style="max-height:300px;height:230px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
       .col-md-4.col-sm-6.mb-4.m-auto
         .p-4.pb-0(style="border-top-left-radius:30px;border-top-right-radius:30px;background-color:#EAE9E9;")
           p.text-center(data-aos="fade-up") Mostrar enfado por  no tener siempre una respuesta inmediata online
-          img.mt-4(src="@/assets/curso/temas/tema1/29.png" data-aos="zoom-in-up" style="max-height:300px;height:300px;")
+          img.mt-4(src="@/assets/curso/temas/tema1/29.svg" data-aos="zoom-in-up" style="max-height:300px;height:300px;")
         .p-3(style="background-color:#F55D8B;")
           h4.mb-0.text-white.text-center(data-aos="fade-up") Es violencia de género
 
