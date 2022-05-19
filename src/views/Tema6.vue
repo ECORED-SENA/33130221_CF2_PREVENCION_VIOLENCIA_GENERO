@@ -26,7 +26,7 @@
         .col-lg-5.mb-4.mb-lg-0
         .col-lg-7
           .bloque-texto-a__texto.p-5
-            p(data-aos="zoom-in") La intervención psicoeducativa integra de manera práctica lo psicológico y lo pedagógico. Por un lado, la dimensión psicológica está relacionada con la comprensión de la problemática desde el proceso individual y la forma cómo éste afecta los procesos emocionales, las acciones individuales y los recursos psicológicos. Y desde lo pedagógico, se busca promover acciones que permitan aprender, incorporando nuevas formas de ver la realidad que permitan asumir pensamientos, emociones y conductas distintas.
+            p(data-aos="zoom-in") La intervención psicoeducativa integra de manera práctica lo psicológico y lo pedagógico. Por un lado, la dimensión psicológica está relacionada con la comprensión de la problemática desde el proceso individual y la forma cómo este afecta los procesos emocionales, las acciones individuales y los recursos psicológicos. Y desde lo pedagógico, se busca promover acciones que permitan aprender, incorporando nuevas formas de ver la realidad que permitan asumir pensamientos, emociones y conductas distintas.
 
     p.mt-5(data-aos="fade-up") En el caso particular de la violencia de género, los procesos psicoeducativos se convierten en una forma de visibilización de las violencias, ya que, al ser un problema tan arraigado en la cultura, muchas manifestaciones pasan desapercibidas. Parte del proceso es desenmascarar, hacer conciencia de las creencias individuales que sostienen la violencia de género y ayudar a construir nuevas formas de pensar en relación con la forma como los hombres y las mujeres viven en esta sociedad.
 

@@ -285,7 +285,7 @@ export default {
     },
     {
       texto:
-        'Ley 1257 de 2008. Por la cual se dictan normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres, se reforman los códigos penales, de procedimiento penal, la ley294 de 1996 y se dictan otras disposiciones. Diciembre 4 de 2008. DO. Nº. 47.193. ',
+        'Ley 1257 de 2008. Por la cual se dictan normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres, se reforman los códigos penales, de procedimiento penal, la ley 294 de 1996 y se dictan otras disposiciones. Diciembre 4 de 2008. DO. Nº. 47.193. ',
       tipo: 'Normativa',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34054#:~:text=La%20presente%20ley%20tiene%20por,a%20los%20procedimientos%20administrativos%20y',

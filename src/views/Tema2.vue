@@ -405,7 +405,7 @@
         .row.p-4(titulo="5")
           .col-md-8.mb-4.mb-md-0
             h4 Etapa de pruebas:
-            p.mt-4 Existen varias pruebas pertinentes a tener en cuenta, se pueden considerar las siguientes: documentos, valoración psicológica, testimonios, prueba pericial técnico científica, visita domiciliaria, interrogatorio, indicios y demás pruebas que se estimen pertinentes.
+            p.mt-4 Existen varias pruebas pertinentes a tener en cuenta, se pueden considerar las siguientes: documentos, valoración psicológica, testimonios, prueba pericial técnico-científica, visita domiciliaria, interrogatorio, indicios y demás pruebas que se estimen pertinentes.
           .col-md-4(style="place-self:center;")
             figure
               img(src='@/assets/curso/temas/tema2/21.png', alt='')
