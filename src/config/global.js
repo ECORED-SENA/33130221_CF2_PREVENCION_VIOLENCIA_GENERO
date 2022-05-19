@@ -177,7 +177,7 @@ export default {
     },
     {
       referencia:
-        'Fiscalía General de la Nación. (s. f.-a). Datos de correo electrónico por Municipio.',
+        'Fiscalía General de la Nación. (s. f.-a). Dónde y cómo denunciar.',
       link:
         'https://www.fiscalia.gov.co/colombia/servicios-de-informacion-al-ciudadano/donde-y-como-denunciar/',
     },
